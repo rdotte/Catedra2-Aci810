@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Catedra2Android</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_registro">RegistroActivity</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_perfil">PerfilActivity</string>
+    <string name="title_activity_ajustes">AjustesActivity</string>
+    
+    <string name="boton">Ajustes</string>
+    <string name="button">LogOut</string>
+    <string name="perfil">Perfil</string>
+    
+    <string name="nombre">nombre</string>
+    <string name="secreta">pass</string>
+    <string name="correo">email</string>
+    <string name="fono">fono</string>
+    <string name="notas">desea notas?</string>
+     <string name="yes">Si</string>
+      <string name="no">No</string>
+      <string name="pollo">save</string>
+      
+      <string name="hola">Registro</string>
+       <string name="login">Login</string>
+       
+        <string name="alimentarse">Comer</string>
+         <string name="verde">Dormir</string>
+           <string name="morir">muerte</string>
+           
+           <string name="welcome">welcome</string>
+           <string name="hello">hola</string>
+      
+      
+     
+    
+    
+
+</resources>
